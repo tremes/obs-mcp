@@ -22,6 +22,7 @@ require (
 
 require (
 	github.com/modelcontextprotocol/go-sdk v1.8.0
+	github.com/openshift/cluster-health-analyzer v0.1.1-0.20261001120736-40bee1bf4373
 	github.com/pavolloffay/opentelemetry-mcp-server/modules/schemagen v0.0.0-20260710124846-8bb49fd6ccc7
 	github.com/stretchr/testify v1.12.1
 )
